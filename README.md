@@ -1,2 +1,2 @@
-# sweater
-Sweater - Spring MVC training project
+# Talkushka
+Talkushka - social project for communication people, use Spring MVC technology stack
